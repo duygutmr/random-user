@@ -1,0 +1,10 @@
+
+.user-list ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.user-list ul li {
+    margin: 10px;
+    list-style: none;
+  }
+  
